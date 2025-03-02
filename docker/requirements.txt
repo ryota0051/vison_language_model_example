@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+jupyterlab
+ipykernel
+ipywidgets
+scikit-learn
+tqdm
+git+https://github.com/huggingface/transformers
+accelerate
+qwen-vl-utils[decord]
+torchvision
+bitsandbytes
